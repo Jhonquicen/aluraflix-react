@@ -1,0 +1,17 @@
+.campo text {
+    background-color: blueviolet;
+    padding: 1rem;
+    
+}
+
+
+
+.campo input{
+    /* background-color: #706f6f; */
+    background-color: #4e4c4cf3;
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    outline-color: #6278F7;
+    
+}
